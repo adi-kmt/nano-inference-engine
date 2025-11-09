@@ -1,0 +1,38 @@
+[
+  {
+    "prompt_length": 2,
+    "output_length": 1027,
+    "generated_tokens": 1025,
+    "ttft": 0.106283152665128,
+    "total_time": 33.10602824966433,
+    "tokens_per_second": 30.96156378822046,
+    "per_token_latency": 0.03222631357128828,
+    "peak_memory_mb": 0.0,
+    "cpu_usage_percent": 0.8494721075137596,
+    "error": null
+  },
+  {
+    "prompt_length": 8,
+    "output_length": 1033,
+    "generated_tokens": 1025,
+    "ttft": 0.1212056250005844,
+    "total_time": 33.91453988900321,
+    "tokens_per_second": 30.22516363662324,
+    "per_token_latency": 0.03300130299219006,
+    "peak_memory_mb": 0.0,
+    "cpu_usage_percent": 0.9434638866602875,
+    "error": null
+  },
+  {
+    "prompt_length": 17,
+    "output_length": 1042,
+    "generated_tokens": 1025,
+    "ttft": 0.11858027766478092,
+    "total_time": 33.70147486066465,
+    "tokens_per_second": 30.415583764510444,
+    "per_token_latency": 0.03279579549121081,
+    "peak_memory_mb": 0.0,
+    "cpu_usage_percent": 0.6912257654751213,
+    "error": null
+  }
+]
